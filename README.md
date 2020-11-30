@@ -1,6 +1,6 @@
 # python 테스트
 
-## ..
+## 
  ls -al .ssh
 
 ssh-keygen.exe -t rsa -C "bit_r39"
